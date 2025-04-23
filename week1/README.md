@@ -10,7 +10,10 @@
 
   # Week 1 演習
 
-  - [Hello World Notebook (Colab)](https://colab.research.google.com/drive/1a5gXBLp9MntvkCASjNtm2iZwWEiRKGD4?usp=sharing)
+  - [task1 (Colab)](https://colab.research.google.com/drive/1a5gXBLp9MntvkCASjNtm2iZwWEiRKGD4?usp=sharing)
+  - [task2 (Colab)](https://colab.research.google.com/drive/19M4t4qsmIRlDleBZNqN4IJUv0JoukM9N?usp=sharing)
+  - [task3 (Colab)](https://colab.research.google.com/drive/1RWk1d943x-yPIf_UuxKUExQiBotbyPrl?usp=sharing)
+  - [task4 (Colab)](https://colab.research.google.com/drive/1bZXU-nSzoOcvGRcTSX0HHlJOIqMbPY68?usp=sharing)
 
 * [Week 2: Python基礎 発展・Git応用](./week2/)
 * [Week 3: データ分析 - NumPy / Pandas基礎](./week3/)

@@ -1,6 +1,4 @@
-
-
-  # Week 1 演習
+  # Week 2 演習
 
   - [task1 (Colab)](https://colab.research.google.com/drive/1a5gXBLp9MntvkCASjNtm2iZwWEiRKGD4?usp=sharing)
   - [task2 (Colab)](https://colab.research.google.com/drive/19M4t4qsmIRlDleBZNqN4IJUv0JoukM9N?usp=sharing)
